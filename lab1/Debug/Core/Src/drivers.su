@@ -1,0 +1,3 @@
+drivers.c:10:6:switch_pin	16	static
+drivers.c:14:6:_delay	16	static
+drivers.c:18:6:blink	24	static
